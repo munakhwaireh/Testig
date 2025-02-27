@@ -43,7 +43,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     GitApplicationTheme {
-        Greeting("Android")
+        Greeting("Android , new feature")
         Log.d("GitTest", "Git is working!")
 
     }
