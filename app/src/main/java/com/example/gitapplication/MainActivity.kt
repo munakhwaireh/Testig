@@ -23,9 +23,11 @@ class MainActivity : ComponentActivity() {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
 
+
                       
 
                         name = "Munaa , feature-one fffile",
+
 
                         modifier = Modifier.padding(innerPadding)
                     )
