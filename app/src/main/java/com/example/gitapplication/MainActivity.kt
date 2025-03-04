@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
 
                       
 
-                        name = "Munaa , feature-one fffile",
+                        name = "Munaa , feature-one file",
 
 
                         modifier = Modifier.padding(innerPadding)
